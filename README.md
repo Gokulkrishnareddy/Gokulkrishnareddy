@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 
 <h3 align="center">Ambitious Data Scientist and Machine Learning Engineer </h3>
+<img align='left' src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="1080" align ="left">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulkrishnaReddy&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 
@@ -16,6 +17,9 @@
 
 
 <!--...- 🔭 I’m currently working on **Research Project on Satellite Imagery Analysis and as an Data Science Intern at AML clouds(Australlain Fintech Startup)**-->
+<img align='right' src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="240" align ="left">
+
+<br></br>
 
 - 🌱 I’m currently learning *Advanced Computer Vision ,Django and React*
 
@@ -23,12 +27,8 @@
 
 - 💬 Ask me about *Python ,Machine Learning ,Deep Learning, Computer Vision, Natural Language Processing, Arduino Programming*
 
-
-## 📛Badges
-
-<p align="left"><img src="mta-introduction-to-programming-using-python-certified-2022.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="50" height="50"/> </p>
-<p align="left">
-</p>
+<br></br>
+<br></br>
 
 ## 🛠Language and Tools
 
