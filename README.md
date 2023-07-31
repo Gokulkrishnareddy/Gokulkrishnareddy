@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 
-<h3 align="center">I am bronze 2 bot puka</h3>
+<h3 align="center">Ambitious Data Scientist and Machine Learning Engineer </h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulkrishnaReddy&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 
@@ -35,7 +35,16 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,8 +68,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 <img src="https://www.livewireindia.com/blog/wp-content/uploads/2019/07/matlab-logo.jpg" width="85" height="35"/>
-<img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" width="65" height="30"/>
-
+<img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" width="65" height="30"/>](url)
+-->
 # 📊 GitHub Stats:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulkrishnaReddy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -83,14 +92,12 @@
 <img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210" align ="left">
 
 
-<a href="https://www.linkedin.com/in/hrithik-reddy-0879a7207/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/c-gokulkrishnareddy-c-gokulkrishnareddy-3826a7246/i"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
      <br>
      
-<a href="mailto:hr6466@srmist.edu.in"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
+<a href="mailto:cc1733@srmist.edu.in"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
      <br>
-     
-<a href="https://www.instagram.com/hrithik__reddy/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
-     <br>
+
      
 
 ---
