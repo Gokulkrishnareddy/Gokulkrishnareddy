@@ -21,7 +21,7 @@
 
 <br></br>
 
-- 🌱 I’m currently learning *Machine learning & Deep learning*
+- 🌱 I’m currently learning *Advance concepts in machine learning* 
 
 - 👯 I’m looking to collaborate on *Innovative Projects ,Research in AI, Hackathon , Data Science Hackathon*
 
