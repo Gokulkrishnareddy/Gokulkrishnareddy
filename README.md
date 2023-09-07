@@ -3,8 +3,8 @@
 <h3 align="center">Ambitious Data Scientist and Machine Learning Engineer </h3>
 <img align='left' src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="1080" align ="left">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulkrishnaReddy&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
-
+<!--[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulkrishnaReddy&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+](url) -->
 <!--...<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="450"/> </p>-->
 
 
@@ -74,13 +74,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulkrishnaReddy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align='right' src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="270"> 
+<!--<img align='right' src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="270">--> 
 
 ![](https://github-readme-stats.vercel.app/api?username=GokulkrishnaReddy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GokulkrishnaReddy&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulkrishnaReddy&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
+<!--<img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
 
 
 <br>
@@ -89,7 +89,7 @@
 
 ### Connect With Me On..(●'◡'●)
   
-<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210" align ="left">
+<!--<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210" align ="left">
 
 
 <a href="https://www.linkedin.com/in/c-gokulkrishnareddy-c-gokulkrishnareddy-3826a7246/i"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
@@ -98,6 +98,6 @@
 <a href="mailto:cc1733@srmist.edu.in"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
      <br>
 
-     
+     -->
 
 ---
