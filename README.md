@@ -3,9 +3,9 @@
 <h3 align="center">Ambitious Data Scientist and Machine Learning Engineer </h3>
 <img align='left' src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="1080" align ="left">
 
-<!--[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulkrishnaReddy&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
-](url) -->
-<!--...<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="450"/> </p>-->
+[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulkrishnaReddy&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+](url) 
+...<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="450"/> </p>
 
 
 [![](https://visitcount.itsvg.in/api?id=GokulkrishnaReddy&icon=0&color=0)](https://visitcount.itsvg.in)
